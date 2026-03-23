@@ -1,0 +1,12 @@
+Part B 
+Prevention Checklist: 22. Create a 'Stay Safe Online' checklist
+- Never share your UPI PIN or OTP with anyone  
+- Do not approve unknown or suspicious payment requests  
+- Always verify the sender before making any online transaction  
+- Avoid clicking on unknown or suspicious links  
+- Use strong and unique passwords for all accounts  
+- Enable two-factor authentication wherever possible  
+- Regularly check your bank statements for unusual activity  
+- Do not save sensitive information on public or shared devices  
+- Be cautious of calls or messages creating urgency or fear  
+- Immediately report any cyber fraud on cybercrime.gov.in or call 1930  
