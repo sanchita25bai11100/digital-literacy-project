@@ -7,7 +7,17 @@ Task 3- In this task, I explored coding and collaboration platforms to understan
 Task 4- In this task, I learned about professional communication and email etiquette. I wrote two formal emails. I also created a social media Do’s and Don’ts checklist to highlight responsible online behavior.
 Task 5- In this task, I learned about cybercrime awareness by studying a case of UPI fraud. I understood how fraudsters trick users through fake calls, messages, and payment requests to gain access to their money or personal information.
 Links:
-Task 1- https://www.canva.com/design/DAHEqkayfZ8/VQ-YsSwGC5CT8tMZGog9nQ/edit?utm_content=DAHEqkayfZ8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-Task 2- https://github.com/sanchita25bai11100 (github profile)
-        
+Task 1- https://www.canva.com/design/DAHEqkayfZ8/VQ-YsSwGC5CT8tMZGog9nQ/edit?utm_content=DAHEqkayfZ8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton (My work on canva)
+Task 2- https://github.com/sanchita25bai11100 (GitHub profile)
+        https://github.com/sanchita25bai11100/sanchita25bai11100 (profile repository)
+        https://www.linkedin.com/in/sanchita-yadav-20439a3b9/ (LinkedIn profile)
+        https://www.kaggle.com/sanchita25bai11100 (Kaggle profile)
+        https://www.researchgate.net/profile/Sanchita-Yadav-2?ev=hdr_xprf (ResearchGate profile)
+        https://www.canva.com/design/DAHErLLe2I8/aSYDv44PSdFxHiZGUy0xYA/edit?utm_content=DAHErLLe2I8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton (My work on canva)
+Task 3- https://www.hackerrank.com/profile/yadavsanchita627 (Hackerrank profile)
+        https://docs.google.com/forms/d/e/1FAIpQLSdcccD7XjmQYLlM__VNtRUdZ11nQjpIZlTraSgKwup-X-XhOQ/viewform?usp=publish-editor (Google form link)
+        https://www.canva.com/design/DAHErV8rycg/oFFq7XaGb1s6Ed6JsLBuUQ/edit?utm_content=DAHErV8rycg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton (My work on canva)
+Task 4- https://www.canva.com/design/DAHEropqXcQ/OfUGtutKNLTIjNpFvlsB2g/edit?utm_content=DAHEropqXcQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton (My work on canva)
+Task 5- https://www.canva.com/design/DAHEru5EsKE/ydyMsHi9VFPCaFVbbPzzYg/edit?utm_content=DAHEru5EsKE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton (My work on canva)
+Project Report- https://www.canva.com/design/DAHEscO-OyU/elhQODK1j0AXokIE8HQwAw/edit?utm_content=DAHEscO-OyU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton (My work on canva)
         
